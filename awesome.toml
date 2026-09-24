@@ -1,0 +1,49 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Awesome Linux"
+repo_slug = "awesome-linux"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    # Only the sections this engine reads entries from are listed. Half of this
+    # list keeps its entries as headings with a paragraph under each one, which
+    # the engine does not parse, so those sections stay out of this list.
+    "Learning Resources",
+    "X Desktop Environments",
+    "X Windows Managers",
+    "Applications",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = [
+    # Hosts that answer on plain http only, or not at all, so the entry stays
+    # where upstream put it instead of failing the scheme check on every run.
+    "http://lxde.org",
+    # Unreachable or returning 404 on both schemes. A maintainer should decide
+    # whether these entries get a new home or come out of the list.
+    "http://computefreely.org/",
+    "http://corebird.baedert.org/",
+    "http://developer.linuxmint.com/projects/cinnamon-projects.html",
+    "http://gnome-twitch.vinszent.com/",
+    "http://manuel-kehl.de/projects/go-for-it/",
+    "http://openbox.org/wiki/Main_Page",
+    "http://parnold-x.github.io/nasc/",
+    "http://sawfish.tuxfamily.org/",
+    "http://vim.org",
+    "http://wereturtle.github.io/ghostwriter/",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.

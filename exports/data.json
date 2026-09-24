@@ -1,0 +1,816 @@
+{
+  "name": "Awesome Linux",
+  "repo_slug": "awesome-linux",
+  "generated_at": "2026-09-24",
+  "entry_count": 78,
+  "sections": [
+    {
+      "name": "Distributions",
+      "entries": []
+    },
+    {
+      "name": "Learning Resources",
+      "entries": [
+        {
+          "name": "Beautiful Bash: Let's make reading and writing bash scripts fun again!",
+          "url": "https://www.slideshare.net/a_z_e_t/inpresentation",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 203
+        },
+        {
+          "name": "Best Practices for Writing Bash Scripts",
+          "url": "https://kvz.io/blog/2013/11/21/bash-best-practices/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 204
+        },
+        {
+          "name": "Shell Style Guide",
+          "url": "https://google.github.io/styleguide/shell.xml",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 205
+        },
+        {
+          "name": "Linux Fu: Better Bash Scripting",
+          "url": "https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 206
+        },
+        {
+          "name": "Bash Guide for Beginners",
+          "url": "https://linux.die.net/Bash-Beginners-Guide/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 207
+        },
+        {
+          "name": "Advanced Bash-Scripting Guide",
+          "url": "https://linux.die.net/abs-guide/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 208
+        }
+      ]
+    },
+    {
+      "name": "X Desktop Environments",
+      "entries": [
+        {
+          "name": "Cinnamon",
+          "url": "http://developer.linuxmint.com/projects/cinnamon-projects.html",
+          "description": "Strives to provide a traditional user experience.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 243
+        },
+        {
+          "name": "EDE",
+          "url": "https://edeproject.org/",
+          "description": "Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 244
+        },
+        {
+          "name": "LXQt",
+          "url": "https://lxqt.org/",
+          "description": "Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 245
+        },
+        {
+          "name": "MATE",
+          "url": "https://www.mate-desktop.org/",
+          "description": "Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 246
+        }
+      ]
+    },
+    {
+      "name": "X Windows Managers",
+      "entries": [
+        {
+          "name": "9wm",
+          "url": "https://unauthorised.org/dhog/9wm.html",
+          "description": "Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 251
+        },
+        {
+          "name": "awesome",
+          "url": "https://awesomewm.org/",
+          "description": "Highly configurable window manager for X. Fast and extensible.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 252
+        },
+        {
+          "name": "Blackbox",
+          "url": "https://github.com/bradleythughes/blackbox",
+          "description": "Lightweight window manager for the X window system, without library dependencies. Built using C++.",
+          "tags": [],
+          "group": null,
+          "stars": 53,
+          "last_push": "2017-02-02",
+          "line": 253
+        },
+        {
+          "name": "bspwm",
+          "url": "https://github.com/baskerville/bspwm",
+          "description": "Tiling window manager that represents windows as the leaves of a full binary tree.",
+          "tags": [],
+          "group": null,
+          "stars": 8317,
+          "last_push": "2026-06-19",
+          "line": 254
+        },
+        {
+          "name": "Compiz",
+          "url": "https://launchpad.net/compiz",
+          "description": "OpenGL compositing window manager. It has a plug-in system to be changed at runtime.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 255
+        },
+        {
+          "name": "dwm",
+          "url": "https://dwm.suckless.org/",
+          "description": "Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 256
+        },
+        {
+          "name": "Enlightenment",
+          "url": "https://www.enlightenment.org/",
+          "description": "Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 257
+        },
+        {
+          "name": "Fluxbox",
+          "url": "https://www.fluxbox.org/",
+          "description": "Window manager for X, lightweight and easy to handle but full of features to make an easy and fast desktop experience. Built using C++.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 258
+        },
+        {
+          "name": "FVWM",
+          "url": "https://fvwm.org/",
+          "description": "ICCCM-compliant multiple virtual desktop window manager for X. Extremely powerful.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 259
+        },
+        {
+          "name": "i3",
+          "url": "https://i3wm.org/",
+          "description": "Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 260
+        },
+        {
+          "name": "IceWM",
+          "url": "https://ice-wm.org/",
+          "description": "Window manager with the goal of being fast, simple, and not getting in the user's way.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 261
+        },
+        {
+          "name": "JWM",
+          "url": "https://www.joewing.net/projects/jwm/",
+          "description": "Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 262
+        },
+        {
+          "name": "Matchbox",
+          "url": "https://www.yoctoproject.org/software-item/matchbox/",
+          "description": "Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 263
+        },
+        {
+          "name": "Mutter",
+          "url": "https://download.gnome.org/sources/mutter/",
+          "description": "Window manager for X. Default window manager in GNOME 3.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 264
+        },
+        {
+          "name": "Openbox",
+          "url": "http://openbox.org/wiki/Main_Page",
+          "description": "Highly configurable window manager with extensive standards support.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 265
+        },
+        {
+          "name": "ratpoison",
+          "url": "https://www.nongnu.org/ratpoison/",
+          "description": "A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 266
+        },
+        {
+          "name": "Sawfish",
+          "url": "http://sawfish.tuxfamily.org/",
+          "description": "Extensible window manager. Its aim is to manage windows in the most flexible and attractive manner possible. Built using Lisp-based scripting language.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 267
+        },
+        {
+          "name": "wmii",
+          "url": "https://code.google.com/p/wmii/",
+          "description": "Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 268
+        },
+        {
+          "name": "xmonad",
+          "url": "https://xmonad.org/",
+          "description": "Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 269
+        }
+      ]
+    },
+    {
+      "name": "Applications",
+      "entries": [
+        {
+          "name": "Builder",
+          "url": "https://wiki.gnome.org/Apps/Builder",
+          "description": "IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 282
+        },
+        {
+          "name": "Evince",
+          "url": "https://wiki.gnome.org/Apps/Evince",
+          "description": "The most popular document viewer on the GNOME platform.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 283
+        },
+        {
+          "name": "Gedit",
+          "url": "https://wiki.gnome.org/Apps/Gedit",
+          "description": "Powerful general purpose text editor.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 284
+        },
+        {
+          "name": "Polari",
+          "url": "https://wiki.gnome.org/Apps/Polari",
+          "description": "IRC client built to be easy to use.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 285
+        },
+        {
+          "name": "To Do",
+          "url": "https://wiki.gnome.org/Apps/Todo",
+          "description": "Minimalistic personal task manager designed to fit right into your GNOME desktop.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 286
+        },
+        {
+          "name": "FeedReader",
+          "url": "https://jangernert.github.io/FeedReader/",
+          "description": "RSS desktop client able to integrate with multiple online services.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 292
+        },
+        {
+          "name": "Go For It!",
+          "url": "http://manuel-kehl.de/projects/go-for-it/",
+          "description": "To-do list with built-in productivity timer.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 293
+        },
+        {
+          "name": "NaSC",
+          "url": "http://parnold-x.github.io/nasc/",
+          "description": "Intelligent calculator app.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 294
+        },
+        {
+          "name": "Spice-Up",
+          "url": "https://github.com/Philip-Scott/Spice-up",
+          "description": "Desktop presentation app.",
+          "tags": [],
+          "group": null,
+          "stars": 604,
+          "last_push": "2022-03-22",
+          "line": 295
+        },
+        {
+          "name": "Vocal",
+          "url": "https://vocalproject.net/",
+          "description": "Podcast client for the modern desktop.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 296
+        },
+        {
+          "name": "Dolphin",
+          "url": "https://userbase.kde.org/Dolphin",
+          "description": "File manager for KDE focusing on usability.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 302
+        },
+        {
+          "name": "Krita",
+          "url": "https://krita.org/en/",
+          "description": "Painting program.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 303
+        },
+        {
+          "name": "Atom",
+          "url": "https://atom.io",
+          "description": "Hackable text editor for the 21st century.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 309
+        },
+        {
+          "name": "ghostwriter",
+          "url": "http://wereturtle.github.io/ghostwriter/",
+          "description": "Distraction-free Markdown editor.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 310
+        },
+        {
+          "name": "GParted",
+          "url": "https://gparted.sourceforge.io/",
+          "description": "The most popular disk partitioning software out there.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 311
+        },
+        {
+          "name": "Kodi",
+          "url": "https://kodi.tv/",
+          "description": "Most popular entertainment center.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 312
+        },
+        {
+          "name": "Zathura",
+          "url": "https://pwmt.org/projects/zathura/",
+          "description": "Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 313
+        },
+        {
+          "name": "Etcher",
+          "url": "https://www.balena.io/etcher/",
+          "description": "Flash OS images to SD cards and USB drives, safely and easily.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 314
+        },
+        {
+          "name": "Corebird",
+          "url": "http://corebird.baedert.org/",
+          "description": "Twitter client.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 322
+        },
+        {
+          "name": "GNOME Twitch",
+          "url": "http://gnome-twitch.vinszent.com/",
+          "description": "Twitch player.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 323
+        },
+        {
+          "name": "Caprine",
+          "url": "https://github.com/sindresorhus/caprine/",
+          "description": "Facebook's Messenger client with some added privacy features.",
+          "tags": [],
+          "group": null,
+          "stars": 7392,
+          "last_push": "2026-01-02",
+          "line": 324
+        },
+        {
+          "name": "PB for Desktop",
+          "url": "https://github.com/sidneys/pb-for-desktop",
+          "description": "Pushbullet client.",
+          "tags": [],
+          "group": null,
+          "stars": 516,
+          "last_push": "2023-01-06",
+          "line": 325
+        },
+        {
+          "name": "ramme",
+          "url": "https://github.com/terkelg/ramme",
+          "description": "Instagram client.",
+          "tags": [],
+          "group": null,
+          "stars": 3301,
+          "last_push": null,
+          "line": 326
+        },
+        {
+          "name": "Whatever",
+          "url": "https://github.com/CellarD0-0r/whatever",
+          "description": "Evernote client based on the web version.",
+          "tags": [],
+          "group": null,
+          "stars": 347,
+          "last_push": "2020-10-06",
+          "line": 327
+        },
+        {
+          "name": "Y PPA Manager",
+          "url": "https://launchpad.net/y-ppa-manager",
+          "description": "(Ubuntu) Manage PPAs and search for packages.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 333
+        },
+        {
+          "name": "pirut",
+          "url": "https://fedoraproject.org/wiki/Tools/pirut",
+          "description": "(Fedora) Provides a set of graphical tools for managing software.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 334
+        },
+        {
+          "name": "Synaptics",
+          "url": "https://www.nongnu.org/synaptic/",
+          "description": "(Debian and `.deb` users) Graphical package management program for `apt`.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 335
+        },
+        {
+          "name": "YaST",
+          "url": "https://en.opensuse.org/YaST_Software_Management",
+          "description": "(openSUSE) Main package management tool on openSUSE.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 336
+        },
+        {
+          "name": "dnfdragora",
+          "url": "https://github.com/manatools/dnfdragora",
+          "description": "(Fedora) A GUI for the `dnf` package manager.",
+          "tags": [],
+          "group": null,
+          "stars": 192,
+          "last_push": "2026-09-19",
+          "line": 337
+        },
+        {
+          "name": "Yay",
+          "url": "https://github.com/Jguer/yay",
+          "description": "(Arch) Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found here.",
+          "tags": [],
+          "group": null,
+          "stars": 13760,
+          "last_push": "2026-09-22",
+          "line": 338
+        },
+        {
+          "name": "Aura",
+          "url": "https://github.com/aurapm/aura",
+          "description": "(Arch) Secure, multilingual package manager.",
+          "tags": [],
+          "group": null,
+          "stars": 1915,
+          "last_push": "2026-02-05",
+          "line": 339
+        },
+        {
+          "name": "AppImageKit",
+          "url": "https://github.com/probonopd/AppImageKit",
+          "description": "Using AppImageKit you can package applications in the AppImage format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.",
+          "tags": [],
+          "group": null,
+          "stars": 9428,
+          "last_push": "2026-07-26",
+          "line": 343
+        },
+        {
+          "name": "cmus",
+          "url": "https://cmus.github.io/",
+          "description": "Small, fast and powerful console music player.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 349
+        },
+        {
+          "name": "fuck",
+          "url": "https://github.com/nvbn/thefuck",
+          "description": "Command line tool which corrects your previously mistyped command.",
+          "tags": [],
+          "group": null,
+          "stars": 97873,
+          "last_push": "2024-07-19",
+          "line": 350
+        },
+        {
+          "name": "git",
+          "url": "https://git-scm.com/",
+          "description": "Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 351
+        },
+        {
+          "name": "glances",
+          "url": "https://nicolargo.github.io/glances/",
+          "description": "Cross-platform system monitoring tool.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 352
+        },
+        {
+          "name": "htop",
+          "url": "https://hisham.hm/htop/",
+          "description": "Nice looking, customizable task manager.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 353
+        },
+        {
+          "name": "nano",
+          "url": "https://www.nano-editor.org",
+          "description": "Simple to use text editor.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 354
+        },
+        {
+          "name": "photorec",
+          "url": "https://www.cgsecurity.org/wiki/PhotoRec",
+          "description": "Useful tool for restoring deleted files.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 355
+        },
+        {
+          "name": "ranger",
+          "url": "https://github.com/ranger/ranger",
+          "description": "Vim-inspired file manager for the console.",
+          "tags": [],
+          "group": null,
+          "stars": 17412,
+          "last_push": "2026-09-09",
+          "line": 356
+        },
+        {
+          "name": "screenFetch",
+          "url": "https://github.com/KittyKatt/screenFetch",
+          "description": "Fetches system/theme information in terminal.",
+          "tags": [],
+          "group": null,
+          "stars": 4076,
+          "last_push": "2026-03-02",
+          "line": 357
+        },
+        {
+          "name": "shellcheck",
+          "url": "https://github.com/koalaman/shellcheck",
+          "description": "Static analysis tool for shell scripts.",
+          "tags": [],
+          "group": null,
+          "stars": 40080,
+          "last_push": "2026-09-21",
+          "line": 358
+        },
+        {
+          "name": "speed-test",
+          "url": "https://github.com/sindresorhus/speed-test",
+          "description": "Test your Internet connection speed and ping using speedtest.net.",
+          "tags": [],
+          "group": null,
+          "stars": 3950,
+          "last_push": "2021-12-03",
+          "line": 359
+        },
+        {
+          "name": "testdisk",
+          "url": "https://www.cgsecurity.org/wiki/TestDisk",
+          "description": "A tool for disk partition recovery.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 360
+        },
+        {
+          "name": "tig",
+          "url": "https://github.com/jonas/tig",
+          "description": "Text-mode interface for git. It functions mainly as a Git repository browser.",
+          "tags": [],
+          "group": null,
+          "stars": 13348,
+          "last_push": "2026-09-19",
+          "line": 361
+        },
+        {
+          "name": "vim",
+          "url": "http://vim.org",
+          "description": "Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 362
+        },
+        {
+          "name": "vtop",
+          "url": "https://github.com/MrRio/vtop",
+          "description": "Easily-extendable activity monitor.",
+          "tags": [],
+          "group": null,
+          "stars": 4172,
+          "last_push": "2020-10-08",
+          "line": 363
+        },
+        {
+          "name": "wavemon",
+          "url": "https://github.com/uoaerg/wavemon",
+          "description": "Monitoring application for wireless network devices.",
+          "tags": [],
+          "group": null,
+          "stars": 1242,
+          "last_push": "2026-06-29",
+          "line": 364
+        },
+        {
+          "name": "youtube-dl",
+          "url": "https://github.com/rg3/youtube-dl",
+          "description": "A tool to download videos from YouTube and other video sites.",
+          "tags": [],
+          "group": null,
+          "stars": 141328,
+          "last_push": "2026-02-19",
+          "line": 365
+        }
+      ]
+    },
+    {
+      "name": "Useful Websites",
+      "entries": []
+    }
+  ]
+}

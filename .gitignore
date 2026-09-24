@@ -1,0 +1,9 @@
+
+
+# engine
+.venv/
+reports/
+.lycheecache
+__pycache__/
+.pytest_cache/
+*.pyc

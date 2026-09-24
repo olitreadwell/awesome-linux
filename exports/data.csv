@@ -1,0 +1,79 @@
+section,group,name,url,description,tags,stars,last_push,line
+Learning Resources,,Beautiful Bash: Let's make reading and writing bash scripts fun again!,https://www.slideshare.net/a_z_e_t/inpresentation,,,,,203
+Learning Resources,,Best Practices for Writing Bash Scripts,https://kvz.io/blog/2013/11/21/bash-best-practices/,,,,,204
+Learning Resources,,Shell Style Guide,https://google.github.io/styleguide/shell.xml,,,,,205
+Learning Resources,,Linux Fu: Better Bash Scripting,https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/,,,,,206
+Learning Resources,,Bash Guide for Beginners,https://linux.die.net/Bash-Beginners-Guide/,,,,,207
+Learning Resources,,Advanced Bash-Scripting Guide,https://linux.die.net/abs-guide/,,,,,208
+X Desktop Environments,,Cinnamon,http://developer.linuxmint.com/projects/cinnamon-projects.html,Strives to provide a traditional user experience.,,,,243
+X Desktop Environments,,EDE,https://edeproject.org/,"Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.",,,,244
+X Desktop Environments,,LXQt,https://lxqt.org/,"Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.",,,,245
+X Desktop Environments,,MATE,https://www.mate-desktop.org/,Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.,,,,246
+X Windows Managers,,9wm,https://unauthorised.org/dhog/9wm.html,Window manager that attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.,,,,251
+X Windows Managers,,awesome,https://awesomewm.org/,Highly configurable window manager for X. Fast and extensible.,,,,252
+X Windows Managers,,Blackbox,https://github.com/bradleythughes/blackbox,"Lightweight window manager for the X window system, without library dependencies. Built using C++.",,53,2017-02-02,253
+X Windows Managers,,bspwm,https://github.com/baskerville/bspwm,Tiling window manager that represents windows as the leaves of a full binary tree.,,8317,2026-06-19,254
+X Windows Managers,,Compiz,https://launchpad.net/compiz,OpenGL compositing window manager. It has a plug-in system to be changed at runtime.,,,,255
+X Windows Managers,,dwm,https://dwm.suckless.org/,"Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application and task performed.",,,,256
+X Windows Managers,,Enlightenment,https://www.enlightenment.org/,Window manager bundled with a whole suite of libraries to help you create beautiful user interfaces.,,,,257
+X Windows Managers,,Fluxbox,https://www.fluxbox.org/,"Window manager for X, lightweight and easy to handle but full of features to make an easy and fast desktop experience. Built using C++.",,,,258
+X Windows Managers,,FVWM,https://fvwm.org/,ICCCM-compliant multiple virtual desktop window manager for X. Extremely powerful.,,,,259
+X Windows Managers,,i3,https://i3wm.org/,Tiling window manager. BSD-licensed. Primarily targeted at advanced users and developers.,,,,260
+X Windows Managers,,IceWM,https://ice-wm.org/,"Window manager with the goal of being fast, simple, and not getting in the user's way.",,,,261
+X Windows Managers,,JWM,https://www.joewing.net/projects/jwm/,"Lightweight window manager for X11. Good choice for older and/or less powerful systems, though perfectly capable of running on modern systems. Built using C.",,,,262
+X Windows Managers,,Matchbox,https://www.yoctoproject.org/software-item/matchbox/,"Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.",,,,263
+X Windows Managers,,Mutter,https://download.gnome.org/sources/mutter/,Window manager for X. Default window manager in GNOME 3.,,,,264
+X Windows Managers,,Openbox,http://openbox.org/wiki/Main_Page,Highly configurable window manager with extensive standards support.,,,,265
+X Windows Managers,,ratpoison,https://www.nongnu.org/ratpoison/,"A simple window manager with no library dependencies, no graphics, and no decorations. Modeled after GNU Screen.",,,,266
+X Windows Managers,,Sawfish,http://sawfish.tuxfamily.org/,Extensible window manager. Its aim is to manage windows in the most flexible and attractive manner possible. Built using Lisp-based scripting language.,,,,267
+X Windows Managers,,wmii,https://code.google.com/p/wmii/,"Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.",,,,268
+X Windows Managers,,xmonad,https://xmonad.org/,Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.,,,,269
+Applications,,Builder,https://wiki.gnome.org/Apps/Builder,IDE for GNOME that is focused on bringing the power of the GNOME platform to more developers.,,,,282
+Applications,,Evince,https://wiki.gnome.org/Apps/Evince,The most popular document viewer on the GNOME platform.,,,,283
+Applications,,Gedit,https://wiki.gnome.org/Apps/Gedit,Powerful general purpose text editor.,,,,284
+Applications,,Polari,https://wiki.gnome.org/Apps/Polari,IRC client built to be easy to use.,,,,285
+Applications,,To Do,https://wiki.gnome.org/Apps/Todo,Minimalistic personal task manager designed to fit right into your GNOME desktop.,,,,286
+Applications,,FeedReader,https://jangernert.github.io/FeedReader/,RSS desktop client able to integrate with multiple online services.,,,,292
+Applications,,Go For It!,http://manuel-kehl.de/projects/go-for-it/,To-do list with built-in productivity timer.,,,,293
+Applications,,NaSC,http://parnold-x.github.io/nasc/,Intelligent calculator app.,,,,294
+Applications,,Spice-Up,https://github.com/Philip-Scott/Spice-up,Desktop presentation app.,,604,2022-03-22,295
+Applications,,Vocal,https://vocalproject.net/,Podcast client for the modern desktop.,,,,296
+Applications,,Dolphin,https://userbase.kde.org/Dolphin,File manager for KDE focusing on usability.,,,,302
+Applications,,Krita,https://krita.org/en/,Painting program.,,,,303
+Applications,,Atom,https://atom.io,Hackable text editor for the 21st century.,,,,309
+Applications,,ghostwriter,http://wereturtle.github.io/ghostwriter/,Distraction-free Markdown editor.,,,,310
+Applications,,GParted,https://gparted.sourceforge.io/,The most popular disk partitioning software out there.,,,,311
+Applications,,Kodi,https://kodi.tv/,Most popular entertainment center.,,,,312
+Applications,,Zathura,https://pwmt.org/projects/zathura/,Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.,,,,313
+Applications,,Etcher,https://www.balena.io/etcher/,"Flash OS images to SD cards and USB drives, safely and easily.",,,,314
+Applications,,Corebird,http://corebird.baedert.org/,Twitter client.,,,,322
+Applications,,GNOME Twitch,http://gnome-twitch.vinszent.com/,Twitch player.,,,,323
+Applications,,Caprine,https://github.com/sindresorhus/caprine/,Facebook's Messenger client with some added privacy features.,,7392,2026-01-02,324
+Applications,,PB for Desktop,https://github.com/sidneys/pb-for-desktop,Pushbullet client.,,516,2023-01-06,325
+Applications,,ramme,https://github.com/terkelg/ramme,Instagram client.,,3301,,326
+Applications,,Whatever,https://github.com/CellarD0-0r/whatever,Evernote client based on the web version.,,347,2020-10-06,327
+Applications,,Y PPA Manager,https://launchpad.net/y-ppa-manager,(Ubuntu) Manage PPAs and search for packages.,,,,333
+Applications,,pirut,https://fedoraproject.org/wiki/Tools/pirut,(Fedora) Provides a set of graphical tools for managing software.,,,,334
+Applications,,Synaptics,https://www.nongnu.org/synaptic/,(Debian and `.deb` users) Graphical package management program for `apt`.,,,,335
+Applications,,YaST,https://en.opensuse.org/YaST_Software_Management,(openSUSE) Main package management tool on openSUSE.,,,,336
+Applications,,dnfdragora,https://github.com/manatools/dnfdragora,(Fedora) A GUI for the `dnf` package manager.,,192,2026-09-19,337
+Applications,,Yay,https://github.com/Jguer/yay,"(Arch) Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found here.",,13760,2026-09-22,338
+Applications,,Aura,https://github.com/aurapm/aura,"(Arch) Secure, multilingual package manager.",,1915,2026-02-05,339
+Applications,,AppImageKit,https://github.com/probonopd/AppImageKit,"Using AppImageKit you can package applications in the AppImage format that runs on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one app = one file.",,9428,2026-07-26,343
+Applications,,cmus,https://cmus.github.io/,"Small, fast and powerful console music player.",,,,349
+Applications,,fuck,https://github.com/nvbn/thefuck,Command line tool which corrects your previously mistyped command.,,97873,2024-07-19,350
+Applications,,git,https://git-scm.com/,Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.,,,,351
+Applications,,glances,https://nicolargo.github.io/glances/,Cross-platform system monitoring tool.,,,,352
+Applications,,htop,https://hisham.hm/htop/,"Nice looking, customizable task manager.",,,,353
+Applications,,nano,https://www.nano-editor.org,Simple to use text editor.,,,,354
+Applications,,photorec,https://www.cgsecurity.org/wiki/PhotoRec,Useful tool for restoring deleted files.,,,,355
+Applications,,ranger,https://github.com/ranger/ranger,Vim-inspired file manager for the console.,,17412,2026-09-09,356
+Applications,,screenFetch,https://github.com/KittyKatt/screenFetch,Fetches system/theme information in terminal.,,4076,2026-03-02,357
+Applications,,shellcheck,https://github.com/koalaman/shellcheck,Static analysis tool for shell scripts.,,40080,2026-09-21,358
+Applications,,speed-test,https://github.com/sindresorhus/speed-test,Test your Internet connection speed and ping using speedtest.net.,,3950,2021-12-03,359
+Applications,,testdisk,https://www.cgsecurity.org/wiki/TestDisk,A tool for disk partition recovery.,,,,360
+Applications,,tig,https://github.com/jonas/tig,Text-mode interface for git. It functions mainly as a Git repository browser.,,13348,2026-09-19,361
+Applications,,vim,http://vim.org,"Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.",,,,362
+Applications,,vtop,https://github.com/MrRio/vtop,Easily-extendable activity monitor.,,4172,2020-10-08,363
+Applications,,wavemon,https://github.com/uoaerg/wavemon,Monitoring application for wireless network devices.,,1242,2026-06-29,364
+Applications,,youtube-dl,https://github.com/rg3/youtube-dl,A tool to download videos from YouTube and other video sites.,,141328,2026-02-19,365

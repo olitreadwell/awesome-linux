@@ -1,0 +1,26 @@
+[project]
+name = "awesome-linux"
+version = "0.1.0"
+description = "A curated list of Linux distributions, applications, and resources"
+requires-python = ">=3.12"
+dependencies = [
+    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@0d13482",
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]

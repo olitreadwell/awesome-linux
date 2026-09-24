@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-09-24",
+  "repos": {
+    "CellarD0-0r/whatever": {
+      "stars": 347,
+      "pushed_at": "2020-10-06",
+      "archived": false
+    },
+    "Jguer/yay": {
+      "stars": 13760,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "KittyKatt/screenFetch": {
+      "stars": 4076,
+      "pushed_at": "2026-03-02",
+      "archived": false
+    },
+    "MrRio/vtop": {
+      "stars": 4172,
+      "pushed_at": "2020-10-08",
+      "archived": false
+    },
+    "Philip-Scott/Spice-up": {
+      "stars": 604,
+      "pushed_at": "2022-03-22",
+      "archived": false
+    },
+    "aurapm/aura": {
+      "stars": 1915,
+      "pushed_at": "2026-02-05",
+      "archived": false
+    },
+    "baskerville/bspwm": {
+      "stars": 8317,
+      "pushed_at": "2026-06-19",
+      "archived": false
+    },
+    "bradleythughes/blackbox": {
+      "stars": 53,
+      "pushed_at": "2017-02-02",
+      "archived": false
+    },
+    "jonas/tig": {
+      "stars": 13348,
+      "pushed_at": "2026-09-19",
+      "archived": false
+    },
+    "koalaman/shellcheck": {
+      "stars": 40080,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "manatools/dnfdragora": {
+      "stars": 192,
+      "pushed_at": "2026-09-19",
+      "archived": false
+    },
+    "nvbn/thefuck": {
+      "stars": 97873,
+      "pushed_at": "2024-07-19",
+      "archived": false
+    },
+    "probonopd/AppImageKit": {
+      "stars": 9428,
+      "pushed_at": "2026-07-26",
+      "archived": false
+    },
+    "ranger/ranger": {
+      "stars": 17412,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "rg3/youtube-dl": {
+      "stars": 141328,
+      "pushed_at": "2026-02-19",
+      "archived": false
+    },
+    "sidneys/pb-for-desktop": {
+      "stars": 516,
+      "pushed_at": "2023-01-06",
+      "archived": false
+    },
+    "sindresorhus/caprine": {
+      "stars": 7392,
+      "pushed_at": "2026-01-02",
+      "archived": false
+    },
+    "sindresorhus/speed-test": {
+      "stars": 3950,
+      "pushed_at": "2021-12-03",
+      "archived": false
+    },
+    "terkelg/ramme": {
+      "stars": 3301,
+      "pushed_at": "2019-11-03",
+      "archived": true
+    },
+    "uoaerg/wavemon": {
+      "stars": 1242,
+      "pushed_at": "2026-06-29",
+      "archived": false
+    }
+  }
+}
